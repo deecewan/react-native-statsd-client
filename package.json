@@ -1,6 +1,6 @@
 {
   "author": "Srikanth Kyatham",
-  "name": "react-native-statsd-client",
+  "name": "@deecewan/react-native-statsd-client",
   "description": "react native client for Etsy's statsd",
   "keywords": [
     "react-native",
@@ -15,7 +15,7 @@
   "bugs": "https://github.com/deecewan/react-native-statsd-client/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/srikanthkyatham/react-native-statsd-client.git"
+    "url": "git://github.com/deecewan/react-native-statsd-client.git"
   },
   "browser": {
     "dgram": "react-native-udp"

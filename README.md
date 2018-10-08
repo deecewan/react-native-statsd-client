@@ -4,6 +4,9 @@ react-native-statsd-client
 react-native-client for [statsd](https://github.com/etsy/statsd).
 originally forked from https://github.com/msiebuhr/node-statsd-client to add react-native support
 
+forked from https://github.com/srikanthkyatham/react-native-statsd-client to
+update from node-statsd-client base, and publish to NPM
+
 [![Build Status]
 
 Quick tour
